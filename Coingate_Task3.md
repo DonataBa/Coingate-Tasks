@@ -9,4 +9,5 @@
   b) test cases when user name or password incorrect\
   c) test cases when user name or password field is blank 
 3. Testing on different devices, browsers
-4. Bugs are reported
+4. Status of test cases reported
+5. Bugs are reported
