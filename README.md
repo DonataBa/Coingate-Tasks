@@ -1,2 +1,2 @@
 # Coingate-Tasks
-Coingate job tasks
+[Link](https://marker.io/blog/bug-report-template#github)
