@@ -3,10 +3,10 @@
 2. Test cases for Sign up functionality:\
   a) test case with valid credentials\
   b) Test cases when user name or password does not comply with requirements\
-  b) test cases when user name or password field is blank\
+  b) test cases when user name or password field is blank
 3. Test cases for Log in functionality:\
   a) test case with valid credentials\
   b) test cases when user name or password incorrect\
-  c) test cases when user name or password field is blank\ 
+  c) test cases when user name or password field is blank 
 3. Testing on different devices, browsers
 4. Bugs are reported
