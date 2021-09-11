@@ -1,2 +1,3 @@
 # Coingate-Tasks
-[Link](https://www.youtube.com/watch?v=uvTcd-VlM64&ab_channel=Coderama)
+Please follow the link
+[Link](https://github.com/DonataBa/Coingate-Tasks/issues/1)
